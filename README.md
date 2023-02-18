@@ -1,2 +1,2 @@
 # Animated-Screensaver
- OpenGL/GLUT program using 8-point symmetry to draw a kaleidoscope.
+OpenGL/GLUT program using particles for a screensaver animation.
